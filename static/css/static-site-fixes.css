@@ -1,0 +1,14 @@
+.screenings .sqs-block-content{
+    width: 100% !important;
+}
+
+.sqs-flash{
+	color: red;
+	font-size: 22px;
+	font-weight: bold;
+	padding-left: 10px;
+}
+
+#watch_now h1{
+	font-size: 100px;
+}
